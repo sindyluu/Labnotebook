@@ -104,3 +104,4 @@ rm-
 
 ##Images 
 
+<img src = "image.jpg" width=100/>
