@@ -4,8 +4,8 @@
 
 --------------
 
-Dairy entries of work completed on a daily basis can be found [here](/diary).
+Dairy entries of work completed on a daily basis can be found [here](/Diary).
 
-Lab protocols can be found [here](/protocols).
+Lab protocols can be found [here](/Protocols).
 
-Statistical analyses can be found [here](/analyses).
+Statistical analyses can be found [here](/Analyses).
