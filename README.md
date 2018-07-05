@@ -11,4 +11,4 @@ Lab protocols can be found [here](/Protocols).
 Statistical analyses can be found [here](/Analyses).
 
 
-Testing commit conflict
+Testing commit conflicts
